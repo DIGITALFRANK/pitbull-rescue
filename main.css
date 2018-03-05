@@ -1,0 +1,19 @@
+#pics {
+  display: inline-block;
+}
+
+div, h2 {
+  text-align: center;
+}
+
+footer {
+  color: rgba(0,0,0,0.5);
+}
+
+body {
+  background-color: lightblue;
+}
+
+img {
+  width: 25%;
+}
